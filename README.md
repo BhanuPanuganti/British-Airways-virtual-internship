@@ -31,9 +31,9 @@ During the simulation, I worked with real-world airline data to:
 ## 📂 Repository Structure
 FORAGE / British Airways
 │
-├── Task 1
-│ ├── British Airways Summer Schedule Data.xlsx
-│ ├── Lounge Eligibility Lookup and Justification.xlsx
+├── Task 1                
+│ ├── British Airways Summer Schedule Data.xlsx            
+│ ├── Lounge Eligibility Lookup and Justification.xlsx        
 │ └── Task1.ipynb
 │
 ├── Task 2
